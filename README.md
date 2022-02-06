@@ -2,11 +2,11 @@
 <p><em>Webmaster and Data Science Student at <a href="https://openclassrooms.com/fr/paths/164-data-scientist#path-tabs">Openclassrooms</a>
 </em></p>
 
-[![iuLinkedin: anmol](https://img.shields.io/badge/-danyls-blue?style=flat-square&logo=Linkedin&logoColor=white&link=thomas-awounfouet-83732186)](dthomas-awounfouet-83732186)
-![GitHub followers](https://img.shields.io/github/followers/dtn1999?label=Follow&style=social)
+[![iuLinkedin: anmol](https://img.shields.io/badge/-thomas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=thomas-awounfouet-83732186)](thomas-awounfouet-83732186)
+![GitHub followers](https://img.shields.io/github/followers/tawounfouet?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Codechef-3%20%E2%AD%90-lightgrey)](https://www.codechef.com/users/dtn99)
-[![codechef](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://danyls-ngongang.netlify.app/)](https://danyls-ngongang.netlify.app/)
-![](https://visitor-badge.glitch.me/badge?page_id=dtn1999.dtn1999)
+[![kraggle](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://danyls-ngongang.netlify.app/)](https://danyls-ngongang.netlify.app/)
+![](https://visitor-badge.glitch.me/badge?page_id=tawounfouet.tawounfouet)
 
 ```Javascript
 const danyls  = {
@@ -44,10 +44,10 @@ const danyls  = {
 <br/>
 
 <p style="display:flex;">
-<img height="180em" style="margin-right: 12px;" src="https://github-readme-stats.vercel.app/api?username=dtn1999&count_private=true&show_icons=true&theme=radical"/> 
+<img height="180em" style="margin-right: 12px;" src="https://github-readme-stats.vercel.app/api?username=tawounfouet&count_private=true&show_icons=true&theme=radical"/> 
   
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtn1999&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawounfouet&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php"/>
 
 </p>
 
