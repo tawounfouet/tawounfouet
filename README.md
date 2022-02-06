@@ -9,22 +9,21 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=tawounfouet.tawounfouet)
 
 ```Javascript
-const danyls  = {
+const thomas  = {
   pronouns: "He" | "Him",
-  code: ["Java", "Javascript", "Typescript"],
-  askMeAbout: ["web dev", "tech", "app dev 📱", "Basketball🏀"],
+  code: ["Python", "R", "Javascript", "VBA"],
+  askMeAbout: ["Financial Analyst", "DataScience", "web dev", "web design", "scrum master 📱", "Runner Addict🏀"],
   technologies: {
     backEnd: {
-      js: ["Node", "Express", "Prisma"],
-      java: [
-        "Springboot", "Hibernate", "MontiGem: Generator for enterprise app",
-      ],
+      Python: ["Django", "Flask",],
+      js: ["Node", "Express"],
+     
     },
     frontend: {
       js: ["ReactJS", "React Native", "NextJS", "Angular (Beginner)"],
     },
     devOps: ["Docker🐳"],
-    databases: ["mongo", "PostgresSQL", "sqlite"],
+    databases: ["MySql", "PostgresSQL", "sqlite"],
   },
   currentFocus: "Model driven development with montiGem and springboot",
   hobbies: ["Competitive Programming", "I am in love with 🏀"],
