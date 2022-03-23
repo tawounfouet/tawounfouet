@@ -5,7 +5,6 @@
 [![iuLinkedin: anmol](https://img.shields.io/badge/-thomas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=thomas-awounfouet-83732186)](thomas-awounfouet-83732186)
 ![GitHub followers](https://img.shields.io/github/followers/tawounfouet?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Codechef-3%20%E2%AD%90-lightgrey)](https://www.codechef.com/users/dtn99)
-[![kaggle](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://danyls-ngongang.netlify.app/)](https://danyls-ngongang.netlify.app/)
 ![](https://visitor-badge.glitch.me/badge?page_id=tawounfouet.tawounfouet)
 
 ```Javascript
