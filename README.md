@@ -25,7 +25,7 @@ const thomas  = {
     
     databases: ["MySql", "PostgresSQL", "sqlite"],
   },
-  currentFocus: "Model driven development with montiGem and springboot",
+  currentFocus: "Exploring the world of Data Science and running machine learning models in the Field of Finance ",
   hobbies: ["Athlete" :"I am in love with Running 🏃‍♂️"], ["Audio Books" : "I listen most of the sefl-developpement audios book and Motivationnal track]
 };
 ```
@@ -54,4 +54,4 @@ const thomas  = {
 
 > ### NOTE:
 >
-> Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub. Some of my projects are in Gitlab. It is also were i contribute code for work and university coding lectures.
+> Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub. Some of my projects are hosted on my compyter (my localhost) or are clients projects that can't be shared.
