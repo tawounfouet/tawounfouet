@@ -1,5 +1,5 @@
 <h2>Hello 🙂, I'm Thomas </h2>
-<p><em>Webmaster and Data Science Student at <a href="https://openclassrooms.com/fr/paths/164-data-scientist#path-tabs">Openclassrooms</a>
+<p><em>Analyst, Webmaster and Data Science Student at <a href="https://openclassrooms.com/fr/paths/164-data-scientist#path-tabs">Openclassrooms</a>
 </em></p>
 
 [![iuLinkedin: anmol](https://img.shields.io/badge/-thomas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=thomas-awounfouet-83732186)](thomas-awounfouet-83732186)
