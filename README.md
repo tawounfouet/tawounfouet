@@ -11,22 +11,24 @@
 ```Javascript
 const thomas  = {
   pronouns: "He" | "Him",
-  code: ["Python", "R", "Javascript", "VBA"],
+  code: ["Python", "R", "VBA"],
   askMeAbout: ["Financial Analyst", "DataScience", "web dev", "web design", "Coach Agile 📱", "Runner Addict 🏃‍♂️"],
   technologies: {
     backEnd: {
       Python: ["Django", "Flask",],
-      js: ["Node", "Express"],
+      js: ["Nodejs" - Basics],
      
     },
     frontend: {
-      js: ["ReactJS", "React Native", "NextJS", "Angular (Beginner)"],
+      lang: "Html", "CSS", "Javascript"
+      librairie : Bootstrap, jQueries, SAAS
+      Framework: ["ReactJS",(Basics) &  "Angular (Beginner)"],
     },
-    devOps: ["Docker🐳"],
+    
     databases: ["MySql", "PostgresSQL", "sqlite"],
   },
   currentFocus: "Model driven development with montiGem and springboot",
-  hobbies: ["Competitive Programming", "I am in love with 🏀"],
+  hobbies: ["Athlete" :"I am in love with Running 🏃‍♂️"], ["Audio Books" : "I listen most of the sefl-developpement audios book and Motivationnal track]
 };
 ```
 
