@@ -12,7 +12,7 @@
 const thomas  = {
   pronouns: "He" | "Him",
   code: ["Python", "R", "Javascript", "VBA"],
-  askMeAbout: ["Financial Analyst", "DataScience", "web dev", "web design", "scrum master 📱", "Runner Addict🏀"],
+  askMeAbout: ["Financial Analyst", "DataScience", "web dev", "web design", "Coach Agile 📱", "Runner Addict 🏃‍♂️"],
   technologies: {
     backEnd: {
       Python: ["Django", "Flask",],
