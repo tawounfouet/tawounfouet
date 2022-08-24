@@ -9,7 +9,7 @@
 ```Javascript
 const thomas  = {
   pronouns: "He" | "Him",
-  code: ["Python", "R", "VBA", JavaScript],
+  code: ["Python", "R", "VBA", "JavaScript"],
   askMeAbout: ["Financial Analyst", "DataScience", "web dev", "web design", "Coach Agile 📱", "Runner Addict 🏃‍♂️"],
   technologies: {
     backEnd: {
