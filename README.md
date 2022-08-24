@@ -9,18 +9,25 @@
 ```Javascript
 const thomas  = {
   pronouns: "He" | "Him",
-  code: ["Python", "R", "VBA"],
+  code: ["Python", "R", "VBA", JavaScript],
   askMeAbout: ["Financial Analyst", "DataScience", "web dev", "web design", "Coach Agile 📱", "Runner Addict 🏃‍♂️"],
   technologies: {
     backEnd: {
       Python: ["Django", "Flask",],
       js: ["Nodejs" - Basics],
      
+    DataScience : {
+      Data Manipulation : Numpy, Pandas, Statsmodels, scipy
+      Visualization : Matplotib, Seaborn
+      Machine Learning : Scikit-learn
+    
+    }
+     
     },
     frontend: {
       lang: "Html", "CSS", "Javascript"
       librairie : Bootstrap, jQueries, SAAS
-      Framework: ["ReactJS",(Basics) &  "Angular (Beginner)"],
+      Framework: ["ReactJS",(Beginner) &  "Angular (Basics)"],
     },
     
     databases: ["MySql", "PostgresSQL", "sqlite"],
