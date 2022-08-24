@@ -15,7 +15,10 @@ const thomas  = {
     backEnd: {
       Python: ["Django", "Flask",],
       js: ["Nodejs" - Basics],
-     
+    
+    databases: ["MySql", "PostgresSQL", "sqlite"],
+  },
+    
     DataScience : {
       Data_manipulation : ["Numpy", "Pandas", "Statsmodels", "scipy"],
       Visualization : ["Matplotib", "Seaborn"],
@@ -29,13 +32,10 @@ const thomas  = {
       Framework: ["ReactJS",(Beginner) &  "Angular (Basics)"],
     },
     
-    databases: ["MySql", "PostgresSQL", "sqlite"],
-  },
   currentFocus: "Exploring the world of Data Science and running machine learning models in the Field of Finance ",
   hobbies: ["Athlete" :"I am in love with Running 🏃‍♂️"], ["Audio Books" : "I listen most of the sefl-developpement audios book and Motivationnal track]
 };
 ```
-
 ---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
