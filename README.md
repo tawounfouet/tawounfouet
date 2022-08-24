@@ -20,7 +20,6 @@ const thomas  = {
       Data_manipulation : ["Numpy", "Pandas", "Statsmodels", "scipy"],
       Visualization : ["Matplotib", "Seaborn"],
       Machine_learning : "Scikit-learn",
-    
     }
      
     },
