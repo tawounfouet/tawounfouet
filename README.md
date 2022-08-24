@@ -1,5 +1,5 @@
 <h2>Hello 🙂, I'm Thomas </h2>
-<p><em>Analyst, Webmaster and Data Science Student at <a href="https://openclassrooms.com/fr/paths/164-data-scientist#path-tabs">Openclassrooms</a>
+<p><em>Financial Analyst, Webmaster and Data Science Student at <a href="https://openclassrooms.com/fr/paths/164-data-scientist#path-tabs">Openclassrooms</a>
 </em></p>
 
 [![iuLinkedin: anmol](https://img.shields.io/badge/-thomas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=thomas-awounfouet-83732186)](thomas-awounfouet-83732186)
@@ -17,9 +17,9 @@ const thomas  = {
       js: ["Nodejs" - Basics],
      
     DataScience : {
-      Data_manipulation : ["Numpy", "Pandas", "Statsmodels", "scipy"]
-      Visualization : ["Matplotib", "Seaborn"]
-      Machine_learning : "Scikit-learn"
+      Data_manipulation : ["Numpy", "Pandas", "Statsmodels", "scipy"],
+      Visualization : ["Matplotib", "Seaborn"],
+      Machine_learning : "Scikit-learn",
     
     }
      
@@ -57,7 +57,7 @@ const thomas  = {
 
 </p>
 
-## Last Updated on 12/10/2021
+## Last Updated on 01/08/2022
 
 > ### NOTE:
 >
