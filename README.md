@@ -13,8 +13,8 @@ const thomas  = {
   askMeAbout: ["Financial Analyst", "DataScience", "web dev", "web design", "Coach Agile 📱", "Runner Addict 🏃‍♂️"],
   technologies: {
     backEnd: {
-      Python: ["Django", "Flask",],
-      js: ["Nodejs" - Basics],
+      Python: ["Django", "DjangoRest", "Flask",],
+      js: ["Nodejs" (Basics)],
     
     databases: ["MySql", "PostgresSQL", "sqlite"],
   },
@@ -28,8 +28,9 @@ const thomas  = {
     },
     frontend: {
       lang: "Html", "CSS", "Javascript"
-      librairie : Bootstrap, jQueries, SAAS
-      Framework: ["ReactJS",(Beginner) &  "Angular (Basics)"],
+      librairie : "Bootstrap", "jQueries", "SAAS" 
+      Framework: ["ReactJS",(Beginner),  "Angular" (Basics), "Redux"],
+     
     },
     
   currentFocus: "Exploring the world of Data Science and running machine learning models in the Field of Finance ",
