@@ -17,9 +17,9 @@ const thomas  = {
       js: ["Nodejs" - Basics],
      
     DataScience : {
-      Data Manipulation : Numpy, Pandas, Statsmodels, scipy
-      Visualization : Matplotib, Seaborn
-      Machine Learning : Scikit-learn
+      Data_manipulation : ["Numpy", "Pandas", "Statsmodels", "scipy"]
+      Visualization : ["Matplotib", "Seaborn"]
+      Machine_learning : "Scikit-learn"
     
     }
      
