@@ -1,10 +1,32 @@
 <h2>Hello 🙂, I'm Thomas </h2>
+
+---
+
 <p><em> Data Scientist & Analytics, Software Developper Student at <a href="https://openclassrooms.com/fr/paths/164-data-scientist#path-tabs">Openclassrooms</a>
 </em></p>
 
-[![iuLinkedin: anmol](https://img.shields.io/badge/-thomas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=thomas-awounfouet-83732186)](thomas-awounfouet-83732186)
-![GitHub followers](https://img.shields.io/github/followers/tawounfouet?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=tawounfouet.tawounfouet)
+---
+
+<p align="center">
+    <a href="mailto:thomas.awounfouet@gmail.com">
+        <img src="https://img.shields.io/badge/mail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white"  alt="mail"/>
+    </a>
+    <a href="[tawounfouet](https://www.linkedin.com/in/thomas-awounfouet-83732186/)">
+        <img src="https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    </a>
+    <a href="https://github.com/tawounfouet">
+        <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+    </a>
+</p>
+
+👩‍🎓 Freshly graduated from [OpenClassrooms Data Science course](https://openclassrooms.com/fr/paths/164-data-scientist#path-tabs)
+
+🔭 I’m currently working on my [Software Developper Portfolio](https://github.com/hmignon/django-blog-project) and optimising my [older data science course projects](https://github.com/stars/hmignon/lists/student-projects) 
+
+📌 I’m focusing on learning **more about Django and Django REST Framework and improving on my Frontend development skills**
+
+💼 I'm looking for job opportunities around Paris & London or remote in Python / Django development.
+
 
 ```Javascript
 const thomas  = {
@@ -27,9 +49,8 @@ const thomas  = {
       Machine_learning : ["Scikit-learn", "StatsModels"],
       DeepLearning & AI : ["Tensorflow/keras", "PyTorch", "Spacy", "OpenCV"],
       Business Intelligence : ["PowerBI", "Tableau"]
-    }
-     
     },
+     
     frontend: {
       lang: "Html", "CSS", "Javascript"
       librairie : "Bootstrap", "jQueries", "SAAS" 
@@ -58,8 +79,8 @@ const thomas  = {
     <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_circleci_icon_130690.png" alt="circleci" width="40" height="40"/> </a>
     <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/65070/adobe-photoshop.svg" alt="photoshop" width="40" height="40"/> </a>
-    <a href=https://www.adobe.com/products/indesign.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/21245/adobe-indesign.svg" alt="photoshop" width="40" height="40"/> </a>
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40"/> </a>
+    <a href=https://www.adobe.com/products/indesign.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="100" height="40"/> </a>
 </p>
 
 
@@ -81,6 +102,10 @@ const thomas  = {
   
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawounfouet&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php"/>
+
+
+![GitHub followers](https://img.shields.io/github/followers/tawounfouet?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=tawounfouet.tawounfouet)
 
 </p>
 
