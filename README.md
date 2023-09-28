@@ -21,7 +21,7 @@
 
 👩‍🎓 Freshly graduated from [OpenClassrooms Data Science course](https://openclassrooms.com/fr/paths/164-data-scientist#path-tabs)
 
-🔭 I’m currently working on my [Software Developper Portfolio](https://github.com/hmignon/django-blog-project) and optimising my [older data science course projects](https://github.com/stars/hmignon/lists/student-projects) 
+🔭 I’m currently working on my [Software Developper Portfolio](https://github.com/tawounfouet/software-developper-portfolio) and optimising my [older data science course projects](https://github.com/tawounfouet/data-scientist-openclassrooms-x-centralsupelec) 
 
 📌 I’m focusing on learning **more about Django and Django REST Framework and improving on my Frontend development skills**
 
