@@ -25,7 +25,7 @@
 
 📌 I’m focusing on learning **more about Django and Django REST Framework and improving on my Frontend development skills**
 
-💼 I'm looking for job opportunities around Paris & London or remote in Python / Django development.
+💼 I'm looking for job opportunities around Paris & London or remote in Data Analytics & Python/Django development.
 
 ### ⚡ Languages and Tools
 
