@@ -51,7 +51,7 @@
 ```Javascript
 const thomas  = {
   pronouns: "He" | "Him",
-  Languages: ["Python", "JavaScript"],
+  Languages: ["Python", "JavaScript", "SQL"],
   askMeAbout: ["Finance", "Data", "Analytics", "Software Development",  "Runner Addict 🏃‍♂️"],
   technologies: {
     backEnd: {
@@ -67,15 +67,15 @@ const thomas  = {
       Data Analytics : {
             Data Analysis : ["Numpy", "Pandas", "Scipy", "PySpark"],
             Visualization : ["Matplotib", "Seaborn", Bokeh],
-            Business Intellingence :  ["Tableau", PowerBI]
+            Business Intellingence :  ["Tableau", "PowerBI"],
             Machine_learning : ["Scikit-learn", "StatsModels"],
             DL, AI, NLP : ["Tensorflow/keras", "PyTorch", "Spacy", "OpenCV"],
     },
      
     frontend: {
       lang: "Html", "CSS", "Javascript"
-      librairie : "Bootstrap", "jQueries", "SAAS" 
-      Framework: ["ReactJS",(Beginner),  "Angular" (Basics), "Redux"],
+      librairies : "Bootstrap", "jQueries", "SAAS", "Redux", "react-router-dom"
+      Framework: ["ReactJS", "NextJs"],
      
     },
     
