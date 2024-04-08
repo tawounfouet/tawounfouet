@@ -51,24 +51,25 @@
 ```Javascript
 const thomas  = {
   pronouns: "He" | "Him",
-  Languages: ["Python", "R", "VBA", "JavaScript"],
-  askMeAbout: ["Finance", "DataScience", "Analytics", "Software Development",  "Runner Addict 🏃‍♂️"],
+  Languages: ["Python", "JavaScript"],
+  askMeAbout: ["Finance", "Data", "Analytics", "Software Development",  "Runner Addict 🏃‍♂️"],
   technologies: {
     backEnd: {
-      Python: ["Django", "DjangoRest", "Flask", "Dash"],
+      Python: ["Django", "DjangoRest", "Flask", "FastAPI"],
       js: ["Nodejs" (Basics)], 
     
     databases: {
       SQL : ["MySql", "PostgresSQL", "sqlite"],
-      NoSQL : ["MongoDB", "DynanmoDB", "Cassandra", "CosmosDB"]
+      NoSQL : ["TinyDB", "MongoDB", "Cassandra", "DynanmoDB", "CosmosDB"], 
+      ORM : ["DjangoORM", "Peewee", "SQLAlchemy", "Prisma"]
   },
     
-    DataScience & Analytics : {
-      Data_manipulation : ["Numpy", "Pandas", "Statsmodels", "scipy"],
-      Visualization : ["Matplotib", "Seaborn"],
-      Machine_learning : ["Scikit-learn", "StatsModels"],
-      DeepLearning & AI : ["Tensorflow/keras", "PyTorch", "Spacy", "OpenCV"],
-      Business Intelligence : ["PowerBI", "Tableau"]
+      Data Analytics : {
+            Data Analysis : ["Numpy", "Pandas", "Scipy", "PySpark"],
+            Visualization : ["Matplotib", "Seaborn", Bokeh],
+            Business Intellingence :  ["Tableau", PowerBI]
+            Machine_learning : ["Scikit-learn", "StatsModels"],
+            DL, AI, NLP : ["Tensorflow/keras", "PyTorch", "Spacy", "OpenCV"],
     },
      
     frontend: {
