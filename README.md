@@ -69,7 +69,8 @@ const thomas  = {
             Visualization : ["Matplotib", "Seaborn", Bokeh],
             Business Intellingence :  ["Tableau", "PowerBI"],
             Machine_learning : ["Scikit-learn", "StatsModels"],
-            DL, AI, NLP : ["Tensorflow/keras", "PyTorch", "Spacy", "OpenCV"],
+            DL, AI, NLP : ["Tensorflow/keras", "Spacy", "OpenCV"],
+            BigData : ["Hadoop", "Apache Spark", "Apache Airflow"]
     },
      
     frontend: {
