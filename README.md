@@ -2,7 +2,7 @@
 
 ---
 
-<p><em> Data Analytics & Software Developer  @ <a href="https://openclassrooms.com/fr/paths/164-data-scientist#path-tabs">Openclassrooms</a>
+<p><em> Data Analytics & Software Developer  @ <a href="">Seqens</a>
 </em></p>
 
 ---
