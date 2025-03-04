@@ -23,7 +23,7 @@
 
 🔭 I’m currently working clients [Software Developper Projects](https://github.com/tawounfouet/software-developper-portfolio) 
 
-📌 Current Stack  **Django and Django REST Framework and NextJs**
+📌 Current Stack :  **Django ,  Django REST Framework and NextJs**
 
 💼 Open for new opportunities around Paris & London or remote in Data Analytics & Python/Django development.
 
