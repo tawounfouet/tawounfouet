@@ -21,7 +21,7 @@
 
 
 
-🔭 I’m currently working clients [Software Developper Projects](https://github.com/tawounfouet/software-developper-portfolio) 
+🔭 I’m currently working clients [Software Development Projects](https://github.com/tawounfouet/software-developper-portfolio) 
 
 📌 Current Stack :  **Django ,  Django REST Framework and NextJs**
 
