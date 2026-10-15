@@ -2,7 +2,7 @@
 
 ---
 
-<p><em> Data Analytics & Software Developer  @ <a href="">Seqens</a>
+<p><em> Data  & Software Engineer  @ <a href="">Seqens</a>
 </em></p>
 
 ---
